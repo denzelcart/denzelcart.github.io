@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Second Brain | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/second-brain/</link>
-      <atom:link href="https://example.com/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/second-brain/</link>
+      <atom:link href="http://localhost:1313/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
     <description>Second Brain</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Second Brain</title>
-      <link>https://example.com/tags/second-brain/</link>
+      <link>http://localhost:1313/tags/second-brain/</link>
     </image>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/post/second-brain/</link>
+      <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-brain/</guid>
+      <guid>http://localhost:1313/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -112,6 +112,18 @@
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
 &lt;/div&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🧠ПАНДЫ</title>
+      <link>http://localhost:1313/post/panda/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/panda/</guid>
+      <description>&lt;p&gt;Вы когда-нибудь видели медведя, который почти всегда ест? Это большая панда, и она любит есть бамбук больше всего на свете! Большая панда, или большой медведь - это одно из самых известных животных в мире. Она похожа на огромную мягкую игрушку с черно-белой шерсткой, поэтому ее легко узнать и все ее очень любят. Ученые долго спорили, к каким животным относить панду: они думали, что она похожа и на енотов, и на медведей, но в итоге сошлись на мнение, что панда это всё-таки медведь.&lt;/p&gt;
+&lt;p&gt;У панды очень большая голова с широким маленьким носом, короткое тело и длинный хвост, который может быть длиной до 12 см, как школьная линейка. Это достаточно большое животное: его вес может быть до 130 кг (столько весят два больших взрослых человека, а если бы панду можно было положить и измерить, то она была бы длиннее, чем самая длинная кровать в доме - почти 2 метра. Это действительно удивительно, правда?&lt;/p&gt;
+&lt;p&gt;На широких ступнях у панды есть мощные когти, и которые помогают ей забираться на деревья. У панды есть особый &amp;ldquo;палец&amp;rdquo; на лапе, который позволяет ей легко управляться даже с самыми маленькими ветками бамбука.&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
     </item>
